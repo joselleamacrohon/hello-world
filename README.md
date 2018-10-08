@@ -1,5 +1,5 @@
 # hello-world
-random ideas and tests
+just some random ideas
 
 
 Hi Hoomans!
